@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🌱 I’m currently learning and acquiring some tech skills.
+- ⚡ Fun fact: not fun though -- tech has it's stress but I'll do it 🙂
